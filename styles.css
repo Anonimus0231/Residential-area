@@ -61,3 +61,32 @@
     height: 127px;
     background-color: #E7C1F9;
 }
+
+.home-three {
+    background-color: yellow;
+    width: 226px;
+    height: 337px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    flex-wrap: wrap;
+    padding-bottom: 0px;
+}
+
+.windd {
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+}
+
+.doorr {
+    align-self: flex-end;
+    width: 30px;
+    height: 50px;
+    left: 530px;
+    top: 1262px;
+    background-color: black;
+}

@@ -1,0 +1,23 @@
+.home-one {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.window {
+    background-color: aqua;
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(8, 59, 8);
+}
+.dor {
+    width: 30px;
+    height: 50px;
+    background-color: greenyellow;
+    border: 1px solid rgb(8, 59, 8);
+}

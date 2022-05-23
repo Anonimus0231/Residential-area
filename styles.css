@@ -21,3 +21,45 @@
     background-color: greenyellow;
     border: 1px solid rgb(8, 59, 8);
 }
+
+.container {
+    width: 247px;
+    height: 351px;
+    margin: 0 auto;
+    margin-top: 200px;
+    padding: 30px;
+    background: #84CEF9;
+}
+
+.window2x {
+    display: flex;
+    justify-content: space-between;
+}
+
+.win {
+    background-color: yellow
+}
+
+.window__one {
+    width: 62px;
+    height: 66px;
+}
+
+.window__two {
+    width: 82px;
+    height: 108px;
+}
+
+.window__three {
+    margin-top: 77px;
+    width: 62px;
+    height: 66px;
+}
+
+.door {
+    margin-right: 10px;
+    margin: 0% auto;
+    width: 55px;
+    height: 127px;
+    background-color: #E7C1F9;
+}

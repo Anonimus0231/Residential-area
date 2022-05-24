@@ -1,3 +1,11 @@
+.region {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
 .home-one {
     background-color: green;
     width: 200px;

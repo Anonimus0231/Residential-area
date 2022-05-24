@@ -90,3 +90,42 @@
     top: 1262px;
     background-color: black;
 }
+
+.home-for {
+    width: 260px;
+    height: 289px;
+    background: #84F9C1;
+}
+
+.windows {
+    padding-left: 30px;
+    padding-top: 44px;
+    gap: 26px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.first__line-windows {
+    display: flex;
+    gap: 16px;
+
+}
+
+.second__line-windows {
+    display: flex;
+    gap: 16px;
+}
+
+span {
+    width: 55px;
+    height: 50px;
+    background: #E7C1F9;
+}
+
+.doors {
+    width: 63px;
+    height: 94px;
+    background: rgb(18, 12, 104);
+    margin: 26px auto;
+}

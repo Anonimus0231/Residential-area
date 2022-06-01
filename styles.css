@@ -125,7 +125,7 @@
     gap: 16px;
 }
 
-span {
+.span {
     width: 55px;
     height: 50px;
     background: #E7C1F9;
@@ -136,4 +136,37 @@ span {
     height: 94px;
     background: rgb(18, 12, 104);
     margin: 26px auto;
+}
+
+.name__people {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+}
+
+.box:nth-child(1) {
+    background-color: green;
+}
+
+.box:nth-child(3) {
+    background: #84CEF9;
+}
+
+.box:nth-child(5) {
+    background-color: yellow;
+}
+
+.box:nth-child(7) {
+    background-color: #84F9C1;
+}
+
+.name {
+    padding-right: 20px;
 }
